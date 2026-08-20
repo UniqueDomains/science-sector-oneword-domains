@@ -16,7 +16,7 @@ This selection includes 177,792 one-word science domain names spanning 506 TLDs,
 
 **Public extract:** 1,000 rows · **Live catalog:** 197,744 domains · **Median ask:** $562.64 · **High-demand under $2,500:** 948
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/science`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| lab.audio        | available | $104.99    | $114.99       | high           | medium | 3      | namesilo         |
-| data.tools       | resell    | —          | —             | high           | medium | 4      | Porkbun LLC      |
-| cells.phd        | premium   | $111.25    | —             | medium         | low    | 5      | name.com         |
-| stem.schule      | available | $19.99     | $41.99        | medium         | low    | 4      | name.com         |
-| leaf.study       | resell    | —          | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| facts.forex      | premium   | $6,250     | —             | high           | low    | 5      | name.com         |
-| cells.education  | available | $39.99     | —             | medium         | low    | 5      | name.com         |
-| life.foundation  | resell    | —          | —             | high           | medium | 4      | Sav.com, LLC     |
-| facts.mobile     | premium   | $375       | —             | high           | low    | 5      | name.com         |
-| cells.report     | available | $14.99     | —             | medium         | low    | 5      | name.com         |
-| life.school      | resell    | —          | —             | high           | medium | 4      | Porkbun LLC      |
-| facts.press      | premium   | $937.50    | —             | high           | low    | 5      | name.com         |
-| cells.technology | available | $17.99     | —             | medium         | low    | 5      | name.com         |
-| life.tools       | resell    | —          | —             | high           | medium | 4      | Porkbun LLC      |
-| rocks.phd        | premium   | $111.25    | —             | high           | low    | 5      | name.com         |
-| earth.ryukyu     | available | $22.98     | —             | medium         | medium | 5      | namecheap        |
-| stem.science     | resell    | —          | —             | medium         | low    | 4      | NameSilo, LLC    |
-| world.stream     | premium   | $35,520.79 | —             | high           | medium | 5      | NameSilo, LLC    |
-| facts.new        | available | $549.99    | —             | high           | low    | 5      | name.com         |
-| space.media      | resell    | —          | —             | high           | medium | 5      | Porkbun LLC      |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| dna.degree       | available | $14.99    | —             | high           | medium | 3      | name.com         |
+| model.college    | resell    | $29.99    | —             | high           | low    | 5      | Namecheap        |
+| dna.expert       | premium   | $854      | $854          | high           | medium | 3      | namesilo         |
+| dna.schule       | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| model.school     | resell    | $64.35    | $128.70       | high           | low    | 5      | NameCheap, Inc.  |
+| dna.phd          | premium   | $811.25   | —             | high           | medium | 3      | name.com         |
+| lab.degree       | available | $14.99    | —             | high           | medium | 3      | name.com         |
+| expert.education | resell    | $41.49    | —             | high           | low    | 6      | Sav.com, LLC     |
+| dna.prof         | premium   | $811.25   | —             | high           | medium | 3      | name.com         |
+| lab.schule       | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| theory.zone      | resell    | $14.99    | $50.99        | high           | low    | 6      | Sav.com, LLC     |
+| dna.school       | premium   | $69.30    | $138.60       | high           | medium | 3      | namecheap        |
+| lab.shiksha      | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| lab.ac           | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| dna.study        | premium   | $625      | —             | high           | medium | 3      | name.com         |
+| area.science     | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
+| lab.technology   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| dna.tech         | premium   | $1,562.50 | —             | high           | medium | 3      | name.com         |
+| cell.college     | available | $17.99    | $59.99        | high           | low    | 4      | namesilo         |
+| cell.io          | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
