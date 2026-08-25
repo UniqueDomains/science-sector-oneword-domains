@@ -1,10 +1,10 @@
-# One-Word Science Domain Names Across 506 TLDs (202,505)
+# One-Word Science Domain Names Across 506 TLDs (207,011)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-202%2C505%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-207%2C011%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 177,792 one-word science domain names spanning 506 TLDs, with a median ask near $636. Updated daily, it covers brandable single-word names tied to scientific and technical themes rather than one fixed suffix. Compare pricing and TLD before choosing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **202,505 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **207,011 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 202,505 domains · **Median ask:** $567.39 · **High-demand under $2,500:** 938
+**Public extract:** 1,000 rows · **Live catalog:** 207,011 domains · **Median ask:** $556.93 · **High-demand under $2,500:** 934
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/sector/science`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| dna.schule     | available | $19.99    | —             | high           | medium | 3      | name.com          |
-| model.college  | resell    | $29.99    | —             | high           | low    | 5      | Namecheap         |
-| dna.school     | premium   | $69.30    | $138.60       | high           | medium | 3      | namecheap         |
-| lab.degree     | available | $14.99    | —             | high           | medium | 3      | name.com          |
-| model.school   | resell    | $64.35    | $128.70       | high           | low    | 5      | NameCheap, Inc.   |
-| lab.shop       | premium   | $1,250    | —             | high           | medium | 3      | name.com          |
 | lab.schule     | available | $19.99    | —             | high           | medium | 3      | name.com          |
-| lab.media      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| lab.study      | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
-| lab.shiksha    | available | $19.99    | —             | high           | medium | 3      | name.com          |
-| data.golf      | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 34 |
-| lab.tech       | premium   | $3,125    | —             | high           | medium | 3      | name.com          |
+| model.college  | resell    | $29.99    | —             | high           | low    | 5      | Namecheap         |
+| lab.shop       | premium   | $1,250    | —             | high           | medium | 3      | name.com          |
 | cell.degree    | available | $14.99    | —             | high           | low    | 4      | name.com          |
-| data.marketing | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
-| cell.prof      | premium   | $811.25   | —             | high           | low    | 4      | name.com          |
+| lab.media      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| lab.tech       | premium   | $3,125    | —             | high           | medium | 3      | name.com          |
 | cell.schule    | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| gene.pet       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
-| cell.space     | premium   | $812.50   | $3,250        | high           | low    | 4      | namecheap         |
+| data.golf      | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 34 |
+| cell.study     | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo          |
 | cell.shiksha   | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| gene.pet       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
+| room.college   | premium   | $625      | —             | high           | low    | 4      | name.com          |
+| room.degree    | available | $14.99    | —             | high           | low    | 4      | name.com          |
 | room.zone      | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.      |
+| room.expert    | premium   | $1,040    | $1,040        | high           | low    | 4      | namecheap         |
+| room.education | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
+| star.institute | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
+| room.green     | premium   | $625      | —             | high           | low    | 4      | name.com          |
+| room.institute | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| brain.tube     | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc.   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 202,505 live domains                       |
+| 1,000-row public sample | 207,011 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 938 high-demand names under $2,500         |
+| Basic exported fields   | 934 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
