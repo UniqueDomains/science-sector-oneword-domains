@@ -16,7 +16,7 @@ This selection includes 177,792 one-word science domain names spanning 506 TLDs,
 
 **Public extract:** 1,000 rows · **Live catalog:** 212,837 domains · **Median ask:** $546.89 · **High-demand under $2,500:** 1,036
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/sector/science`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
