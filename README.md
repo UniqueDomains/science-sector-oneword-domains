@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| dna.degree       | available | $14.99      | —             | high           | medium | 3      | name.com             |
-| life.io          | resell    | $250,583.85 | $59.99        | high           | medium | 4      | Atom.com Domains LLC |
-| dna.expert       | premium   | $854        | $854          | high           | medium | 3      | namesilo             |
-| dna.schule       | available | $19.99      | —             | high           | medium | 3      | name.com             |
-| expert.education | resell    | $41.49      | —             | high           | low    | 6      | Sav.com, LLC         |
-| dna.phd          | premium   | $811.25     | —             | high           | medium | 3      | name.com             |
-| lab.degree       | available | $14.99      | —             | high           | medium | 3      | name.com             |
-| theory.zone      | resell    | $14.99      | $50.99        | high           | low    | 6      | Sav.com, LLC         |
-| dna.prof         | premium   | $811.25     | —             | high           | medium | 3      | name.com             |
-| lab.organic      | available | $19.99      | —             | high           | medium | 3      | name.com             |
-| environmental.io | resell    | $45,994.25  | $73.99        | high           | low    | 13     | GoDaddy.com, LLC     |
-| dna.school       | premium   | $69.30      | $138.60       | high           | medium | 3      | namecheap            |
-| lab.schule       | available | $19.99      | —             | high           | medium | 3      | name.com             |
-| lab.ac           | resell    | —           | —             | high           | medium | 3      | Spaceship, Inc.      |
-| dna.study        | premium   | $625        | —             | high           | medium | 3      | name.com             |
-| lab.shiksha      | available | $19.99      | —             | high           | medium | 3      | name.com             |
-| lab.technology   | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC     |
-| dna.tech         | premium   | $1,562.50   | —             | high           | medium | 3      | name.com             |
-| area.institute   | available | $9.99       | —             | high           | low    | 4      | name.com             |
-| cell.io          | resell    | —           | —             | high           | low    | 4      | Name.com, Inc.       |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| dna.degree       | available | $14.99    | —             | high           | medium | 3      | name.com           |
+| expert.education | resell    | $41.49    | —             | high           | low    | 6      | Sav.com, LLC       |
+| dna.expert       | premium   | $854      | $854          | high           | medium | 3      | namesilo           |
+| dna.schule       | available | $19.99    | —             | high           | medium | 3      | name.com           |
+| theory.zone      | resell    | $14.99    | $50.99        | high           | low    | 6      | Sav.com, LLC       |
+| dna.phd          | premium   | $811.25   | —             | high           | medium | 3      | name.com           |
+| lab.degree       | available | $14.99    | —             | high           | medium | 3      | name.com           |
+| lab.ac           | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.    |
+| dna.prof         | premium   | $811.25   | —             | high           | medium | 3      | name.com           |
+| lab.schule       | available | $19.99    | —             | high           | medium | 3      | name.com           |
+| lab.technology   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC   |
+| dna.school       | premium   | $69.30    | $138.60       | high           | medium | 3      | namecheap          |
+| lab.shiksha      | available | $19.99    | —             | high           | medium | 3      | name.com           |
+| cell.io          | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.     |
+| dna.study        | premium   | $625      | —             | high           | medium | 3      | name.com           |
+| area.science     | available | $11.99    | $11.99        | high           | low    | 4      | namesilo           |
+| data.marketing   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC        |
+| dna.tech         | premium   | $1,562.50 | —             | high           | medium | 3      | name.com           |
+| cell.college     | available | $17.99    | $59.99        | high           | low    | 4      | namesilo           |
+| data.tech        | resell    | —         | —             | medium         | medium | 4      | Namify Domains Inc |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
