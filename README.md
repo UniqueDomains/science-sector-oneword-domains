@@ -1,10 +1,10 @@
-# One-Word Science Domain Names Across 506 TLDs (160,175)
+# One-Word Science Domain Names Across 506 TLDs (161,102)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-160%2C175%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-161%2C102%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 177,792 one-word science domain names spanning 506 TLDs, with a median ask near $636. Updated daily, it covers brandable single-word names tied to scientific and technical themes rather than one fixed suffix. Compare pricing and TLD before choosing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **160,175 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **161,102 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 160,175 domains · **Median ask:** $515.93 · **High-demand under $2,500:** 636
+**Public extract:** 1,000 rows · **Live catalog:** 161,102 domains · **Median ask:** $513.86 · **High-demand under $2,500:** 632
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/science`
@@ -78,10 +78,10 @@ print(df.head())
 | data.chat              | resell    | —          | —             | medium         | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | biology.cfd            | premium   | $165.12    | $330.24       | high           | low    | 7      | namesilo                                                  |
 | biology.at             | available | $11.99     | $11.99        | high           | low    | 7      | namesilo                                                  |
-| data.email             | resell    | —          | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| data.expert            | resell    | —          | —             | medium         | medium | 4      | Go Canada Domains, LLC                                    |
 | biology.consulting     | premium   | $140       | $280          | high           | low    | 7      | namecheap                                                 |
 | biology.builders       | available | $7.99      | —             | high           | low    | 7      | name.com                                                  |
-| data.expert            | resell    | —          | —             | medium         | medium | 4      | Go Canada Domains, LLC                                    |
+| data.ltd               | resell    | —          | —             | medium         | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
 | biology.courses        | premium   | $6,250     | —             | high           | low    | 7      | name.com                                                  |
 | biology.camera         | available | $21.99     | —             | high           | low    | 7      | name.com                                                  |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 160,175 live domains                       |
+| 1,000-row public sample | 161,102 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 636 high-demand names under $2,500         |
+| Basic exported fields   | 632 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
