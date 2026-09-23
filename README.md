@@ -1,10 +1,10 @@
-# One-Word Science Domain Names Across 506 TLDs (176,302)
+# One-Word Science Domain Names Across 506 TLDs (180,896)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-176%2C302%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-180%2C896%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 177,792 one-word science domain names spanning 506 TLDs, with a median ask near $636. Updated daily, it covers brandable single-word names tied to scientific and technical themes rather than one fixed suffix. Compare pricing and TLD before choosing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **176,302 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **180,896 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 176,302 domains · **Median ask:** $492.65 · **High-demand under $2,500:** 524
+**Public extract:** 1,000 rows · **Live catalog:** 180,896 domains · **Median ask:** $487.60 · **High-demand under $2,500:** 298
 
-**Last updated:** 2026-09-22
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/sector/science`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| lab.audio       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                                 |
-| lab.media       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                              |
-| lab.shop        | premium   | $1,250    | —             | high           | medium | 3      | name.com                                 |
-| data.moda       | available | $43.98    | $45.98        | medium         | low    | 4      | namecheap                                |
-| data.golf       | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 34                        |
-| stem.boo        | premium   | $161.25   | $161.25       | medium         | low    | 4      | name.com                                 |
-| data.new        | available | $488.98   | $601.98       | medium         | low    | 4      | namecheap                                |
-| stem.gg         | resell    | —         | —             | medium         | low    | 4      | Enrapture Limited (https://enrapture.gg) |
-| study.tax       | premium   | $242      | $242          | medium         | low    | 5      | namesilo                                 |
-| stem.gay        | available | $2.98     | $50.98        | medium         | low    | 4      | namecheap                                |
-| stem.science    | resell    | —         | —             | medium         | low    | 4      | NameSilo, LLC                            |
-| table.art       | premium   | $1,875    | —             | high           | low    | 5      | name.com                                 |
-| stem.hiv        | available | $184.99   | $184.99       | medium         | low    | 4      | name.com                                 |
-| test.events     | resell    | —         | —             | low            | low    | 4      | —                                        |
-| cosmic.ink      | premium   | $65       | $130          | medium         | medium | 6      | namecheap                                |
-| stem.immobilien | available | $14.99    | $48.99        | medium         | low    | 4      | name.com                                 |
-| tree.xyz        | resell    | —         | —             | high           | low    | 4      | Dynadot LLC                              |
-| cosmic.rest     | premium   | $787.50   | $1,125        | medium         | medium | 6      | name.com                                 |
-| stem.qpon       | available | $1.99     | $27.99        | medium         | low    | 4      | name.com                                 |
-| study.center    | resell    | —         | —             | medium         | low    | 5      | —                                        |
+| domain                 | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| experiment.engineering | available | $11.99     | —             | high           | low    | 10     | name.com         |
+| lab.schule             | available | $19.99     | —             | high           | medium | 3      | name.com         |
+| analysis.io            | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC     |
+| lab.best               | premium   | $83.30     | $83.30        | high           | medium | 3      | namesilo         |
+| biology.actor          | available | $19.99     | —             | high           | low    | 7      | name.com         |
+| experiment.health      | resell    | $19.99     | —             | high           | low    | 10     | Spaceship, Inc.  |
+| lab.tech               | premium   | $3,125     | —             | high           | medium | 3      | name.com         |
+| biology.apartments     | available | $19.99     | —             | high           | low    | 7      | name.com         |
+| lab.ac                 | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.  |
+| biology.blog           | premium   | $160       | $0.99         | high           | low    | 7      | namesilo         |
+| biology.archi          | available | $24.99     | —             | high           | low    | 7      | name.com         |
+| data.shop              | resell    | —          | —             | medium         | low    | 4      | GMO Registry     |
+| biology.build          | premium   | $1,875     | —             | high           | low    | 7      | name.com         |
+| biology.at             | available | $11.99     | $11.99        | high           | low    | 7      | namesilo         |
+| biology.agency         | resell    | —          | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| biology.ceo            | premium   | $499       | —             | high           | low    | 7      | name.com         |
+| biology.attorney       | available | $62.99     | $62.99        | high           | low    | 7      | namesilo         |
+| biology.best           | resell    | —          | —             | high           | low    | 7      | Dynadot LLC      |
+| biology.cfd            | premium   | $165.12    | $330.24       | high           | low    | 7      | namesilo         |
+| biology.auto           | available | $1,999.99  | $2,199        | high           | low    | 7      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 176,302 live domains                       |
+| 1,000-row public sample | 180,896 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 524 high-demand names under $2,500         |
+| Basic exported fields   | 298 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
