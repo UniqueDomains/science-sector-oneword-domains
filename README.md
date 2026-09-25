@@ -1,10 +1,10 @@
-# One-Word Science Domain Names Across 506 TLDs (116,679)
+# One-Word Science Domain Names Across 506 TLDs (104,549)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-116%2C679%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-104%2C549%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 177,792 one-word science domain names spanning 506 TLDs, with a median ask near $636. Updated daily, it covers brandable single-word names tied to scientific and technical themes rather than one fixed suffix. Compare pricing and TLD before choosing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **116,679 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **104,549 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 116,679 domains · **Median ask:** $338.62 · **High-demand under $2,500:** 285
+**Public extract:** 1,000 rows · **Live catalog:** 104,549 domains · **Median ask:** $341.16 · **High-demand under $2,500:** 184
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/science`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| lab.accountants | available | $43.99    | —             | high           | medium | 3      | name.com                                     |
-| lab.cards       | resell    | $3.99     | —             | high           | medium | 3      | Dynadot Inc                                  |
-| lab.accountant  | premium   | $625      | —             | high           | medium | 3      | name.com                                     |
-| lab.actor       | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
-| scientist.team  | resell    | $7.99     | —             | high           | low    | 9      | Dynadot Inc                                  |
-| lab.art         | premium   | $3,450    | $83.30        | high           | medium | 3      | namesilo                                     |
-| lab.airforce    | available | $103.99   | $103.99       | high           | medium | 3      | namesilo                                     |
-| lab.ac          | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                              |
-| lab.associates  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                     |
-| lab.apartments  | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
-| lab.asia        | resell    | —         | —             | high           | medium | 3      | 1API GmbH                                    |
-| lab.attorney    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| lab.auto        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                     |
-| lab.bet         | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                              |
-| lab.auction     | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
-| lab.bargains    | available | $21.99    | —             | high           | medium | 3      | name.com                                     |
-| lab.black       | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| lab.autos       | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
-| lab.car         | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                     |
-| lab.boutique    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| experiments.so  | available | —         | —             | high           | medium | 11     | —                 |
+| cell.college    | available | $17.99    | $59.99        | high           | low    | 4      | namesilo          |
+| cell.app        | resell    | —         | —             | high           | low    | 4      | united-domains AG |
+| cell.cloud      | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap         |
+| cell.degree     | available | $14.99    | —             | high           | low    | 4      | name.com          |
+| cell.io         | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.    |
+| cell.engineer   | premium   | $71.40    | $71.40        | high           | low    | 4      | namesilo          |
+| cell.hiv        | available | $184.99   | —             | high           | low    | 4      | name.com          |
+| cell.pro        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
+| cell.phd        | premium   | $811.25   | —             | high           | low    | 4      | name.com          |
+| cell.schule     | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| cell.technology | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| cell.prof       | premium   | $811.25   | —             | high           | low    | 4      | name.com          |
+| cell.shiksha    | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| labs.pro        | resell    | —         | —             | high           | medium | 4      | Epik LLC          |
+| cell.space      | premium   | $812.50   | $3,250        | high           | low    | 4      | namecheap         |
+| cell.university | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| theory.so       | resell    | —         | —             | high           | low    | 6      | NameCheap         |
+| cell.study      | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo          |
+| physic.ac       | available | $28.98    | $76.98        | high           | low    | 6      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 116,679 live domains                       |
+| 1,000-row public sample | 104,549 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 285 high-demand names under $2,500         |
+| Basic exported fields   | 184 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
