@@ -1,10 +1,10 @@
-# One-Word Science Domain Names Across 506 TLDs (278,293)
+# One-Word Science Domain Names Across 506 TLDs (279,683)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-278%2C293%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-279%2C683%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 177,792 one-word science domain names spanning 506 TLDs, with a median ask near $636. Updated daily, it covers brandable single-word names tied to scientific and technical themes rather than one fixed suffix. Compare pricing and TLD before choosing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **278,293 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **279,683 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 278,293 domains · **Median ask:** $278.85 · **High-demand under $2,500:** 882
+**Public extract:** 1,000 rows · **Live catalog:** 279,683 domains · **Median ask:** $277.78 · **High-demand under $2,500:** 882
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/science`
@@ -25,14 +25,14 @@ This selection includes 177,792 one-word science domain names spanning 506 TLDs,
 <p align="center">
   <a href="https://unique.domains/domains/sector/science?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./science.csv">CSV</a> / <a href="./science.json">JSON</a>
-  · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
 ---
 
 ➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/science?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/science?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_start_project)  
+➡️ **Founders:** [Start a naming Radar from this exact search](https://unique.domains/domains/sector/science?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_api_docs)
 
 ---
@@ -69,20 +69,20 @@ print(df.head())
 | lab.prof          | premium   | $671.92    | $671.92       | high           | medium | 3      | spaceship                        |
 | lab.shiksha       | available | $14.99     | $51.99        | high           | medium | 3      | namesilo                         |
 | data.rentals      | resell    | $85.80     | $85.80        | high           | medium | 4      | GoDaddy.com, LLC                 |
-| data.attorney     | premium   | $3,105.20  | $3,105.20     | high           | medium | 4      | spaceship                        |
+| data.attorney     | premium   | $3,300     | $3,300        | high           | medium | 4      | dynadot                          |
 | data.guitars      | available | $104.99    | $114.99       | high           | medium | 4      | namesilo                         |
 | science.ltd       | resell    | $38.94     | $38.94        | high           | medium | 7      | Spaceship, Inc.                  |
 | data.bar          | premium   | $2,047.50  | $2,925        | high           | medium | 4      | namecheap                        |
-| data.holiday      | available | $64.99     | $64.99        | high           | medium | 4      | namesilo                         |
+| data.holiday      | available | $5.66      | $52.01        | high           | medium | 4      | porkbun                          |
 | analysis.io       | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC                     |
-| data.channel      | premium   | $516.67    | $516.67       | high           | medium | 4      | spaceship                        |
-| data.reise        | available | $77.83     | $77.83        | high           | medium | 4      | spaceship                        |
+| data.bargains     | premium   | $78.54     | $78.54        | high           | medium | 4      | namesilo                         |
+| data.reise        | available | $75.20     | $75.20        | high           | medium | 4      | cloudflare                       |
 | scientist.singles | resell    | $12.99     | —             | high           | low    | 9      | GoDaddy.com, LLC                 |
-| data.college      | premium   | $13,000    | $13,000       | high           | medium | 4      | namecheap                        |
-| data.reisen       | available | $3.99      | $20.99        | high           | medium | 4      | namesilo                         |
+| data.channel      | premium   | $648.70    | $648.70       | high           | medium | 4      | namecheap                        |
+| data.reisen       | available | $16.76     | $16.76        | high           | medium | 4      | spaceship                        |
 | laboratory.care   | resell    | $29.99     | —             | high           | low    | 10     | Porkbun LLC                      |
-| data.cv           | premium   | $1,339.98  | $80.33        | high           | medium | 4      | namesilo                         |
-| data.republican   | available | $5.57      | $26.97        | high           | medium | 4      | dynadot                          |
+| data.college      | premium   | $10,350.20 | $10,350.20    | high           | medium | 4      | spaceship                        |
+| data.republican   | available | $7.49      | $28.99        | high           | medium | 4      | namesilo                         |
 | lab.info          | resell    | —          | —             | high           | medium | 3      | NetEarth One Inc. d/b/a NetEarth |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -91,17 +91,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                             |
-| ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 278,293 live domains                       |
-| Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 882 high-demand names under $2,500         |
-| No persistence          | Radar, saved search, and alerts            |
-| No founder workflow     | Project, shortlist, and next-step workflow |
+| GitHub extract          | Unique Domains                                       |
+| ----------------------- | ---------------------------------------------------- |
+| 1,000-row public sample | 279,683 live domains                                 |
+| Static CSV / JSON       | live search and daily refresh                        |
+| Basic exported fields   | 882 high-demand names under $2,500                   |
+| No persistence          | Radar, saved search, and alerts                      |
+| No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/science?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/science?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/science?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_create_radar) · [Start a naming Radar](https://unique.domains/domains/sector/science?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/science?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_open_search)
-- [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_methodology)
+- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_science_sector_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
