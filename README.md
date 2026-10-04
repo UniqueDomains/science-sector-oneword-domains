@@ -1,10 +1,10 @@
-# One-Word Science Domain Names Across 506 TLDs (285,619)
+# One-Word Science Domain Names Across 506 TLDs (290,227)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-285%2C619%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-290%2C227%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 177,792 one-word science domain names spanning 506 TLDs, with a median ask near $636. Updated daily, it covers brandable single-word names tied to scientific and technical themes rather than one fixed suffix. Compare pricing and TLD before choosing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **285,619 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **290,227 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 285,619 domains · **Median ask:** $273.59 · **High-demand under $2,500:** 861
+**Public extract:** 1,000 rows · **Live catalog:** 290,227 domains · **Median ask:** $268.63 · **High-demand under $2,500:** 849
 
-**Last updated:** 2026-10-03
+**Last updated:** 2026-10-04
 **Canonical page:** `https://unique.domains/domains/sector/science`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| data.car          | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                           |
+| data.car          | available | $2,070    | $2,400        | high           | medium | 4      | namecheap                                          |
 | data.games        | resell    | $1,300    | $1,300        | high           | medium | 4      | GoDaddy.com, LLC                                   |
 | lab.college       | premium   | $640      | $640          | high           | medium | 3      | namesilo                                           |
-| data.christmas    | available | $30.20    | $30.20        | high           | medium | 4      | cloudflare                                         |
+| data.christmas    | available | $1.24     | $31.16        | high           | medium | 4      | spaceship                                          |
 | data.sarl         | resell    | $42.90    | $42.90        | high           | medium | 4      | GoDaddy.com, LLC                                   |
 | lab.phd           | premium   | $671.92   | $671.92       | high           | medium | 3      | spaceship                                          |
 | data.hamburg      | available | $69.98    | $73.98        | high           | medium | 4      | namecheap                                          |
 | biology.love      | resell    | $9.99     | $28.99        | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., LTD |
 | lab.study         | premium   | $242      | $242          | high           | medium | 3      | namesilo                                           |
-| data.holiday      | available | $5.66     | $52.01        | high           | medium | 4      | porkbun                                            |
+| data.holiday      | available | $5.57     | $53.72        | high           | medium | 4      | dynadot                                            |
 | science.ltd       | resell    | $38.94    | $38.94        | high           | medium | 7      | Spaceship, Inc.                                    |
 | lab.tattoo        | premium   | $130      | $130          | high           | medium | 3      | namecheap                                          |
-| data.immobilien   | available | $30.22    | $30.22        | high           | medium | 4      | spaceship                                          |
+| data.immobilien   | available | $37.99    | $37.99        | high           | medium | 4      | namesilo                                           |
 | analysis.fit      | resell    | $2.99     | $32.49        | high           | low    | 8      | Spaceship, Inc.                                    |
-| data.bar          | premium   | $2,047.50 | $2,925        | high           | medium | 4      | namecheap                                          |
-| data.juegos       | available | $309.47   | $309.47       | high           | medium | 4      | porkbun                                            |
+| data.bar          | premium   | $1,630.33 | $2,328.95     | high           | medium | 4      | spaceship                                          |
+| data.moda         | available | $41.99    | $41.99        | high           | medium | 4      | namesilo                                           |
 | experiment.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc.                                    |
-| data.charity      | premium   | $207.20   | $207.20       | high           | medium | 4      | spaceship                                          |
-| data.moda         | available | $32.20    | $32.20        | high           | medium | 4      | cloudflare                                         |
+| data.bot          | premium   | $5,175.20 | $5,175.20     | high           | medium | 4      | spaceship                                          |
+| data.republican   | available | $5.38     | $26           | high           | medium | 4      | spaceship                                          |
 | data.auction      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 285,619 live domains                                 |
+| 1,000-row public sample | 290,227 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 861 high-demand names under $2,500                   |
+| Basic exported fields   | 849 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
