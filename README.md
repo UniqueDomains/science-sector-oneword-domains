@@ -1,10 +1,10 @@
-# One-Word Science Domain Names Across 506 TLDs (306,495)
+# One-Word Science Domain Names Across 506 TLDs (306,417)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-306%2C495%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-306%2C417%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 177,792 one-word science domain names spanning 506 TLDs, with a median ask near $636. Updated daily, it covers brandable single-word names tied to scientific and technical themes rather than one fixed suffix. Compare pricing and TLD before choosing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **306,495 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **306,417 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 306,495 domains · **Median ask:** $243.37 · **High-demand under $2,500:** 7,175
+**Public extract:** 1,000 rows · **Live catalog:** 306,417 domains · **Median ask:** $244.62 · **High-demand under $2,500:** 7,045
 
-**Last updated:** 2026-10-27
+**Last updated:** 2026-10-29
 **Canonical page:** `https://unique.domains/domains/sector/science`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| lab.diet         | available | $104.99    | $114.99       | high           | high   | 3      | namesilo                                                  |
+| lab.schule       | available | $33.98     | $37.98        | high           | high   | 3      | namecheap                                                 |
 | analysis.io      | resell    | $71,472.50 | $59.99        | high           | medium | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
 | lab.best         | premium   | $94.37     | $94.37        | high           | high   | 3      | namesilo                                                  |
-| lab.schule       | available | $33.98     | $37.98        | high           | high   | 3      | namecheap                                                 |
-| lab.onl          | resell    | —          | —             | high           | high   | 3      | Dynadot Inc                                               |
-| lab.gallery      | premium   | $128.70    | $128.70       | high           | high   | 3      | namecheap                                                 |
-| data.accountants | available | $23.76     | $106.15       | high           | high   | 4      | dynadot                                                   |
+| data.accountants | available | $90.20     | $90.20        | high           | high   | 4      | cloudflare                                                |
 | lab.training     | resell    | —          | —             | high           | high   | 3      | —                                                         |
-| lab.green        | premium   | $1,552.70  | $1,552.70     | high           | high   | 3      | spaceship                                                 |
+| lab.gallery      | premium   | $128.70    | $128.70       | high           | high   | 3      | namecheap                                                 |
 | data.cars        | available | $1,999.99  | $2,199        | high           | high   | 4      | namesilo                                                  |
 | analysis.app     | resell    | —          | —             | high           | medium | 8      | Porkbun LLC                                               |
-| lab.hospital     | premium   | $72.60     | $72.60        | high           | high   | 3      | dynadot                                                   |
+| lab.green        | premium   | $1,552.70  | $1,552.70     | high           | high   | 3      | spaceship                                                 |
 | data.country     | available | $2,064.20  | $2,064.20     | high           | high   | 4      | spaceship                                                 |
 | analysis.cloud   | resell    | —          | —             | high           | medium | 8      | Spaceship, Inc.                                           |
 | lab.tech         | premium   | $13,800    | $13,800       | high           | high   | 3      | namesilo                                                  |
-| data.furniture   | available | $20.90     | $82.76        | high           | high   | 4      | spaceship                                                 |
+| data.guitars     | available | $104.99    | $114.99       | high           | high   | 4      | namesilo                                                  |
 | analysis.now     | resell    | —          | —             | high           | medium | 8      | Dynadot Inc                                               |
 | data.bargains    | premium   | $78.54     | $78.54        | high           | high   | 4      | namesilo                                                  |
-| data.guitars     | available | $107.22    | $107.22       | high           | high   | 4      | dynadot                                                   |
+| data.memorial    | available | $134.99    | $134.99       | high           | high   | 4      | namesilo                                                  |
 | analysis.tv      | resell    | —          | —             | high           | medium | 8      | GoDaddy.com, LLC                                          |
+| data.beauty      | premium   | $832       | $832          | high           | high   | 4      | namesilo                                                  |
+| data.ryukyu      | available | $17.98     | $22.98        | high           | high   | 4      | namecheap                                                 |
+| analysis.world   | resell    | —          | —             | high           | medium | 8      | Squarespace Domains II LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 306,495 live domains                                 |
+| 1,000-row public sample | 306,417 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 7,175 high-demand names under $2,500                 |
+| Basic exported fields   | 7,045 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-10-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Science Domain Names Across 506 TLDs*. Version 2026-10-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
