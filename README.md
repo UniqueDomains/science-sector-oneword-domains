@@ -1,10 +1,10 @@
-# One-Word Science Domain Names Across 506 TLDs (306,404)
+# One-Word Science Domain Names Across 506 TLDs (306,295)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-306%2C404%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-306%2C295%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 177,792 one-word science domain names spanning 506 TLDs, with a median ask near $636. Updated daily, it covers brandable single-word names tied to scientific and technical themes rather than one fixed suffix. Compare pricing and TLD before choosing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **306,404 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **306,295 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 306,404 domains · **Median ask:** $242.45 · **High-demand under $2,500:** 7,558
+**Public extract:** 1,000 rows · **Live catalog:** 306,295 domains · **Median ask:** $245.09 · **High-demand under $2,500:** 8,369
 
 **Last updated:** 2026-10-30
 **Canonical page:** `https://unique.domains/domains/sector/science`
@@ -66,22 +66,22 @@ print(df.head())
 | --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | lab.hiv         | available | $184.90    | $184.90       | high           | high   | 3      | spaceship                                                 |
 | analysis.io     | resell    | $71,472.50 | $59.99        | high           | medium | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
-| lab.review      | premium   | $550       | $71.50        | high           | high   | 3      | dynadot                                                   |
+| lab.deal        | premium   | $103.70    | $103.70       | high           | high   | 3      | spaceship                                                 |
 | lab.paris       | available | $66.98     | $66.98        | high           | high   | 3      | namecheap                                                 |
 | scientist.group | resell    | $10.99     | —             | high           | medium | 9      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| data.attorney   | premium   | $1,639.13  | $3,275.50     | high           | high   | 4      | porkbun                                                   |
+| lab.review      | premium   | $550       | $71.50        | high           | high   | 3      | dynadot                                                   |
 | lab.shiksha     | available | $14.99     | $51.99        | high           | high   | 3      | namesilo                                                  |
 | scientist.team  | resell    | $7.99      | —             | high           | medium | 9      | Dynadot Inc                                               |
-| data.bar        | premium   | $1,719.89  | $2,456.76     | high           | high   | 4      | porkbun                                                   |
-| data.guitars    | available | $108.98    | $159.98       | high           | high   | 4      | namecheap                                                 |
+| data.attorney   | premium   | $3,105.20  | $3,105.20     | high           | high   | 4      | spaceship                                                 |
+| data.guitars    | available | $93.35     | $103.40       | high           | high   | 4      | spaceship                                                 |
 | lab.info        | resell    | —          | —             | high           | high   | 3      | NetEarth One Inc. d/b/a NetEarth                          |
-| data.bot        | premium   | $6,900     | $6,900        | high           | high   | 4      | namesilo                                                  |
+| data.bar        | premium   | $3,105     | $3,105        | high           | high   | 4      | namesilo                                                  |
 | data.hamburg    | available | $69.98     | $73.98        | high           | high   | 4      | namecheap                                                 |
 | analysis.app    | resell    | —          | —             | high           | medium | 8      | Porkbun LLC                                               |
-| data.broker     | premium   | $6,500     | $6,500        | high           | high   | 4      | namecheap                                                 |
+| data.bot        | premium   | $5,175.20  | $5,175.20     | high           | high   | 4      | spaceship                                                 |
 | data.holiday    | available | $64.99     | $64.99        | high           | high   | 4      | namesilo                                                  |
 | analysis.biz    | resell    | —          | —             | high           | medium | 8      | GoDaddy.com, LLC                                          |
-| data.channel    | premium   | $516.67    | $516.67       | high           | high   | 4      | spaceship                                                 |
+| data.broker     | premium   | $5,500     | $5,500        | high           | high   | 4      | dynadot                                                   |
 | data.luxury     | available | $26        | $26           | high           | high   | 4      | spaceship                                                 |
 | analysis.cc     | resell    | —          | —             | high           | medium | 8      | GoDaddy.com, LLC                                          |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 306,404 live domains                                 |
+| 1,000-row public sample | 306,295 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 7,558 high-demand names under $2,500                 |
+| Basic exported fields   | 8,369 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
